@@ -162,7 +162,8 @@ namespace TaskHarmonyApp
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
 
-                Console.WriteLine("Email already exists. Please choose another email.");
+                Console.WriteLine("Email already exists. Please choose another email.");   //asda
+                //gel
                 return;
             }
             Console.ForegroundColor = ConsoleColor.DarkYellow;
